@@ -1,6 +1,10 @@
 # AutoDodona
 
 
+Waar vindt u de code op GitHub?
+Zoek naar "Releases" op de rechterkant van de pagina's, ga naar tags, V1.0.
+
+
 -Gebruiksaanwijzingen-
 
 Voorlopig moet dit programma worden uitgevoerd in een IDE, bijvoorbeel PyCharm. Zorg dat de volgende bestanden zich in dezelfde map bevinden:
