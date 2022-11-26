@@ -5,7 +5,7 @@ Waar vindt u de code op GitHub?
 Zoek naar "Releases" op de rechterkant van de pagina's, ga naar tags, V1.0.
 
 
--Gebruiksaanwijzingen-
+**Gebruiksaanwijzingen**
 
 Voorlopig moet dit programma worden uitgevoerd in een IDE, bijvoorbeel PyCharm. Zorg dat de volgende bestanden zich in dezelfde map bevinden:
 -main.py
@@ -27,7 +27,7 @@ In PyCharm kan dit door in webscraper.py en code_assembly over de overeenkomstig
 Na dit beginnersongemak bent u klaar om het programma te gebruiken. Voer main.py uit, en volg de instructies van het programma. 
 
 
--Programma-instructies-
+**Programma-instructies**
 
 Bij het plakken van de link moet u opletten, u moet de correcte link kleven. 
 Deze link krijgt u als volgt:
@@ -42,7 +42,7 @@ Hierna wordt u het aantal outputs gevraagd. Kijk hiervoor terug naar de Dodona-r
 Hierna bent u klaar. Wanneer het programma meldt dat de code op het klipbord staat, betekent dit dat het klaar is met werken (normaalgezien duurt dit maximum een paar seconden), en kan u terug naar de oefening op Dodona gaan. Op de plaats waar de programmacode terechtkomt kan u onmiddelijk de gegenereerde code kleven. Mocht dit niet het geval zijn, dan staat de gegenereerde code in "program.txt". Open dit bestand en kopieer de inhoud.
 
 
--Beperkingen-
+**Beperkingen**
 
 Voorlopig kan het programma nog geen code genereren die enkel uit een functie bestaat. Dit wordt later nog toegevoegd.
 
