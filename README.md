@@ -15,7 +15,7 @@ Voorlopig moet dit programma worden uitgevoerd in een IDE, bijvoorbeel PyCharm. 
 -program.txt
 
 Zorg bij een eerste gebruik dat u een API-token genereert in Dodona, en dit in dit tekst bestand kleeft. Lees hier hoe waar u dit token kan genereren: https://docs.dodona.be/nl/guides/creating-an-api-token/
-Na deze eerste keer zal dit niet meer nodig zijn.
+Na deze eerste keer zal dit niet meer nodig zijn. (Behalve bij het updaten naar een nieuwe versie, daarbij moet u uw token van het oude tekstbestand kopiëren naar het nieuwe bestand.)
 
 Bij een eerste keer zal u ook de volgende modules moeten installeren:
 -requests
@@ -33,18 +33,21 @@ Bij het plakken van de link moet u opletten, u moet de correcte link kleven.
 Deze link krijgt u als volgt:
 -navigeer naar de oefening op Dodona
 -dien deze leeg in
--als niet alle testcases fout zijn, dien dan 'print("foo")' in als programma, sla anders deze stap over
+-als niet alle testcases fout zijn, dien dan 'print("foo")' in als programma, sla anders deze stap over (overbodige stap bij functies, zie V2.0)
 -boven het rode kruis met "Fout" klikt u nu op '#1', dit nummer kan verschillen
 -u zit nu op de juiste pagina, kopieer de link bovenaan uw browser, en plak deze in het programma, en druk op enter
 
-Hierna wordt u het aantal outputs gevraagd. Kijk hiervoor terug naar de Dodona-resultatenpagina die u hierboven verkreeg, en tel hoeveel verschillende outputs (per input) er onder de categorie "Verwachte uitvoer" staan. Gewoonlijk is dit een getal tussen de 1 en 5. Geef in in het programma en druk op enter.
+Hierna wordt u het aantal outputs gevraagd. Kijk hiervoor terug naar de Dodona-resultatenpagina die u hierboven verkreeg, en tel hoeveel verschillende outputs (per input) er onder de categorie "Verwachte uitvoer" staan. Gewoonlijk is dit een laag getal tussen de 1 en 5. Geef in in het programma en druk op enter.
 
 Hierna bent u klaar. Wanneer het programma meldt dat de code op het klipbord staat, betekent dit dat het klaar is met werken (normaalgezien duurt dit maximum een paar seconden), en kan u terug naar de oefening op Dodona gaan. Op de plaats waar de programmacode terechtkomt kan u onmiddelijk de gegenereerde code kleven. Mocht dit niet het geval zijn, dan staat de gegenereerde code in "program.txt". Open dit bestand en kopieer de inhoud.
 
 
 **Beperkingen**
 
-Voorlopig kan het programma nog geen code genereren die enkel uit een functie bestaat. Dit wordt later nog toegevoegd.
+V2.0 heeft (zeer) beperkte ondersteuning voor functies. Zie de "Issues" pagina voor meer info over wat nog niet ondersteund is. Voorlopig werkt het volgende nog niet:
+-default arguments
+-lijstargumenten
+-stringargumenten
 
 Het kan gebeuren dat bij het indienen van de code Dodona de melding geeft dat de code te groot is. Hier kan ik jammergenoeg niets aan doen, het is dan aan u om de oefening al redenerend uit te werken. 
 
