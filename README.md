@@ -2,7 +2,7 @@
 
 
 Waar vindt u de code op GitHub?
-Zoek naar "Releases" op de rechterkant van de pagina's, ga naar tags, V1.0.
+Zoek naar "Releases" op de rechterkant van de pagina's, ga naar tags en kies hier de versie die u wenst. Ik raad altijd de nieuwste versie aan.
 
 
 **Gebruiksaanwijzingen**
