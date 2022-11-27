@@ -45,12 +45,13 @@ Hierna bent u klaar. Wanneer het programma meldt dat de code op het klipbord sta
 **Beperkingen**
 
 V2.0 heeft (zeer) beperkte ondersteuning voor functies. Zie de "Issues" pagina voor meer info over wat nog niet ondersteund is. Voorlopig werkt het volgende nog niet:
--default arguments
 -lijstargumenten
 -stringargumenten
 
-Het kan gebeuren dat bij het indienen van de code Dodona de melding geeft dat de code te groot is. Hier kan ik jammergenoeg niets aan doen, het is dan aan u om de oefening al redenerend uit te werken. 
+Default argumenten worden niet ondersteund voor functies. Voorlopig lijkt dit niet mogelijk om ooit toe te voegen.
 
-U moet het aantal verwachtte outputs opgeven, niet ideaal, maar ik zag nog geen simpele oplossing voor dit probleem. Hopelijk wordt dit opgelost in verdere updates.
+Het kan gebeuren dat bij het indienen van de code Dodona de melding geeft dat de code te groot is. Hier kan jammergenoeg niets aan gedaan worden, het is dan aan u om de oefening al redenerend uit te werken. 
 
-Het programma moet uitgevoerd worden binnen een IDE, verre van ideaal. Graag zou ik in een toekomstige update dit veranderen naar een losstaand executable bestand dat gebruik maakt van een GUI (tkinter module). 
+Het aantal verwachtte outputs moet worden opgegeven. Dit is niet wenselijk, maar ik zag nog geen simpele oplossing voor dit probleem. Hopelijk kan dit worden opgelost in verdere updates.
+
+Het programma moet uitgevoerd worden binnen een IDE, wat het natuurlijk minder toegankelijk maakt. Graag zou ik in een toekomstige update dit veranderen naar een losstaand executable bestand dat gebruik maakt van een GUI (tkinter module). 
