@@ -46,6 +46,8 @@ Hierna bent u klaar. Wanneer het programma meldt dat de code op het klipbord sta
 
 Vanaf pre-release V2.0 en verder worden ook functies ondersteund. Let wel op: functies met naamargumenten zijn NIET ondersteund, en staan ook niet op de planning om ondersteund te worden. Dit wegens vermoedelijk onmogelijk te zijn.
 
+Meta-functies zijn niet ondersteund.
+
 Het kan gebeuren dat bij het indienen van de code Dodona de melding geeft dat de code te groot is. Hier kan jammergenoeg niets aan gedaan worden, het is dan aan u om de oefening al redenerend uit te werken. 
 
 Het aantal verwachtte outputs moet worden opgegeven. Dit is niet wenselijk, maar ik zag nog geen simpele oplossing voor dit probleem. Hopelijk kan dit worden opgelost in verdere updates.
