@@ -15,7 +15,7 @@ Voorlopig moet dit programma worden uitgevoerd in een IDE, bijvoorbeel PyCharm. 
 -program.txt
 
 Zorg bij een eerste gebruik dat u een API-token genereert in Dodona, en dit in dit tekst bestand kleeft. Lees hier hoe waar u dit token kan genereren: https://docs.dodona.be/nl/guides/creating-an-api-token/
-Na deze eerste keer zal dit niet meer nodig zijn. (Behalve bij het updaten naar een nieuwe versie, daarbij moet u uw token van het oude tekstbestand kopiëren naar het nieuwe bestand.)
+Na deze eerste keer zal dit niet meer nodig zijn. (Behalve bij het updaten naar een nieuwe versie, daarbij moet u uw token van het oude tekstbestand kopiëren naar het nieuwe bestand, of het oude bestand kopiëren, of de oude .py-bestanden vervangen door de nieuwe.)
 
 Bij een eerste keer zal u ook de volgende modules moeten installeren:
 -requests
@@ -44,14 +44,10 @@ Hierna bent u klaar. Wanneer het programma meldt dat de code op het klipbord sta
 
 **Beperkingen**
 
-V2.0 heeft (zeer) beperkte ondersteuning voor functies. Zie de "Issues" pagina voor meer info over wat nog niet ondersteund is. Voorlopig werkt het volgende nog niet:
--lijstargumenten
--stringargumenten
-
-Default argumenten worden niet ondersteund voor functies. Voorlopig lijkt dit niet mogelijk om ooit toe te voegen.
+Vanaf pre-release V2.0 en verder worden ook functies ondersteund. Let wel op: functies met naamargumenten zijn NIET ondersteund, en staan ook niet op de planning om ondersteund te worden. Dit wegens vermoedelijk onmogelijk te zijn.
 
 Het kan gebeuren dat bij het indienen van de code Dodona de melding geeft dat de code te groot is. Hier kan jammergenoeg niets aan gedaan worden, het is dan aan u om de oefening al redenerend uit te werken. 
 
 Het aantal verwachtte outputs moet worden opgegeven. Dit is niet wenselijk, maar ik zag nog geen simpele oplossing voor dit probleem. Hopelijk kan dit worden opgelost in verdere updates.
 
-Het programma moet uitgevoerd worden binnen een IDE, wat het natuurlijk minder toegankelijk maakt. Graag zou ik in een toekomstige update dit veranderen naar een losstaand executable bestand dat gebruik maakt van een GUI (tkinter module). 
+Het programma moet uitgevoerd worden binnen een IDE, wat het natuurlijk minder toegankelijk maakt. Dit wordt hopelijk in in een toekomstige update simpeler gemaakt.
